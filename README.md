@@ -2,7 +2,7 @@
 -  I’m interested in Hardware Engineering 
 -  I’m currently learning Computer Science and Engineering
 -  I’m looking to collaborate on Interesting projects
--  I'm interested in languages like 'C','Java'
+-  I'm interested in languages like 'C','Java','HTML & CSS'.
 -  To contact me gowtham01jaga@gmail.com
 
 <!---
